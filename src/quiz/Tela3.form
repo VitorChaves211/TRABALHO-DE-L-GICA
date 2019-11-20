@@ -279,7 +279,7 @@
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Tahoma" size="18" style="1"/>
                 </Property>
-                <Property name="text" type="java.lang.String" value="ITUANO"/>
+                <Property name="text" type="java.lang.String" value="MANAUS"/>
               </Properties>
             </Component>
           </SubComponents>
@@ -307,7 +307,7 @@
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Tahoma" size="18" style="1"/>
                 </Property>
-                <Property name="text" type="java.lang.String" value="MANAUS"/>
+                <Property name="text" type="java.lang.String" value="ITUANO"/>
               </Properties>
             </Component>
           </SubComponents>

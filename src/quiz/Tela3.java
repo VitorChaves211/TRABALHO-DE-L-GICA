@@ -100,7 +100,7 @@ public class Tela3 extends javax.swing.JFrame {
 
         buttonGroup1.add(jRadioButton2);
         jRadioButton2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jRadioButton2.setText("ITUANO");
+        jRadioButton2.setText("MANAUS");
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
         jPanel4.setLayout(jPanel4Layout);
@@ -115,7 +115,7 @@ public class Tela3 extends javax.swing.JFrame {
 
         buttonGroup1.add(jRadioButton3);
         jRadioButton3.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jRadioButton3.setText("MANAUS");
+        jRadioButton3.setText("ITUANO");
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
         jPanel5.setLayout(jPanel5Layout);
