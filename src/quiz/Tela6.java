@@ -220,13 +220,13 @@ public class Tela6 extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        if(jRadioButton1.isSelected())
+        if(jRadioButton4.isSelected())
         {
             Tela7 ab = new Tela7();
             ab.setVisible(true);
             this.dispose();
         }
-        if (jRadioButton2.isSelected() || jRadioButton3.isSelected()|| jRadioButton4.isSelected())
+        if (jRadioButton1.isSelected() || jRadioButton2.isSelected()|| jRadioButton3.isSelected())
         {
            Tela2 ab = new Tela2();
            ab.setVisible(true);
