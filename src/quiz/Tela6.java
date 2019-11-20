@@ -222,7 +222,7 @@ public class Tela6 extends javax.swing.JFrame {
         // TODO add your handling code here:
         if(jRadioButton4.isSelected())
         {
-            Tela7 ab = new Tela7();
+            Tela8 ab = new Tela8();
             ab.setVisible(true);
             this.dispose();
         }
